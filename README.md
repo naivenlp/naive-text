@@ -1,5 +1,10 @@
 # naive-text
 
+![Python package](https://github.com/naivenlp/naive-text/workflows/Python%20package/badge.svg)
+[![PyPI version](https://badge.fury.io/py/naive-text.svg)](https://badge.fury.io/py/naive-text)
+[![Python](https://img.shields.io/pypi/pyversions/naive-text.svg?style=plastic)](https://badge.fury.io/py/naive-text)
+
+
 Text utils in Python.
 
 
